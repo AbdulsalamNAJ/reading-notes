@@ -1,4 +1,4 @@
-## What is Git and how to use it?
+# What is Git and how to use it?
 Git is a sofware used for version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one.
 
 Why a Version Control System like Git is needed?
