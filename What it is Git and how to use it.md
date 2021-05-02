@@ -1,4 +1,4 @@
-![Git Branches](https://www.rittmanmead.com/blog/content/images/2016/05/06636git-branch1.png)
+![git](https://user-images.githubusercontent.com/83532131/116826049-c1d1d680-ab9a-11eb-89aa-e64ca7c1d412.png)
 
 # What is Git and how to use it?
 Git is a sofware used for version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one.
@@ -133,7 +133,7 @@ You can verify the commit history in Test Branch using:
 
 ## Merging
 
-![image](https://user-images.githubusercontent.com/83532131/116825947-407a4400-ab9a-11eb-9a4d-eb2af8d41795.png)
+![image](https://cdn-images-1.medium.com/max/868/1*g48HJkKNsZwNlWEM6Z82ig.jpeg)
 
 Currently, Test Branch is ahead of the Master by 1 commit. Let’s say that now we want all the code in the Test Branch to be brought back to the Master Branch. This is where git merge is very useful.
 
