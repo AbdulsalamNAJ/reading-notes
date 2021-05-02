@@ -79,6 +79,8 @@ The log shows the author of each commit, the date of the commit, and the commit 
 
 ## Branches
 
+![image](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
+
 Until now we have not created any branch in Git. By default, Git go into the master branch.
 
 ## What is a branch?
@@ -130,6 +132,8 @@ You can verify the commit history in Test Branch using:
 `git log`
 
 ## Merging
+
+![image](https://user-images.githubusercontent.com/83532131/116825947-407a4400-ab9a-11eb-9a4d-eb2af8d41795.png)
 
 Currently, Test Branch is ahead of the Master by 1 commit. Let’s say that now we want all the code in the Test Branch to be brought back to the Master Branch. This is where git merge is very useful.
 
