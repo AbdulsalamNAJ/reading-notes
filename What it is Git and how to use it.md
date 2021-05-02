@@ -1,23 +1,23 @@
 # What is Git and how to use it?
 Git is a sofware used for version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one.
 
-Why a Version Control System like Git is needed?
+## Why a Version Control System like Git is needed?
 A version control system allows developers to revert and go back to an older version of the code.
 Real life projects generally have multiple developers working in parallel. So a version control system like Git is needed to ensure there are no code conflicts between the developers
 
-Download git
+## Download git
 
-This link has details on how to install Git in multiple operating systems:
+You can install Git for Linux, Mac and windows:
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-Create your local Git repository
+## Create your local Git repository
 
-In your computer, create a folder for your project. Let’s call the project folder simple-git-demo.
+In your computer, create a folder for your project. Let’s call the project folder git-demo.
 
 Go into your project folder and add a local Git repository to the project using the following commands:
 
-cd simple-git-demo
-git init
+`cd git-demo
+git init`
 
 Staging and Committing the code
 
