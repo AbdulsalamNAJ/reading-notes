@@ -12,11 +12,11 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ## Create your local Git repository
 
-In your computer, create a folder for your project. Let’s call the project folder git-demo.
+In your computer, create a folder for your project such as git-demo.
 
 Go into your project folder and add a local Git repository to the project using the following commands:
 
-`cd git-demo
+`cd git-demo  
 git init`
 
 Staging and Committing the code
