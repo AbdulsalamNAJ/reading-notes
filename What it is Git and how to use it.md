@@ -28,7 +28,8 @@ Committing is the process in which the code is added to the local repository. Be
 Any file which is not added to the staging area will not be committed. This gives the developer control over which files need to be committed.
 
 ## Staging
-![Staging](![image](https://user-images.githubusercontent.com/83532131/116825734-28ee8b80-ab99-11eb-86e9-81133872a6d4.png)
+![image](https://i.stack.imgur.com/zLTpo.png)
+
 Use the following command for staging the file:
 
 `git add demo.txt`
