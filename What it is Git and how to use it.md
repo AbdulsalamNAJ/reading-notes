@@ -14,98 +14,101 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 In your computer, create a folder for your project such as git-demo.
 
-Go into your project folder and add a local Git repository to the project using the following commands:
+Go into your project folder and add a local Git repository to the project using these commands:
 
 `cd git-demo  
 git init`
 
-Staging and Committing the code
+## Staging and Committing the code
 
-Committing is the process in which the code is added to the local repository. Before committing the code, it has to be in the staging area. The staging area is there to keep track of all the files which are to be committed.
+Committing is the process in which the code is added to the local repository. Before committing the code, it has to be in the staging area. The staging area is  to keep track of all the files which are to be committed.
 
 Any file which is not added to the staging area will not be committed. This gives the developer control over which files need to be committed.
-Staging
+
+## Staging
 
 Use the following command for staging the file:
 
-git add demo.txt
+`git add demo.txt`
 
 In case you want to add multiple files you can use:
 
-git add file1 file2 file3
+`git add file1 file2 file3`
 
 If you want to add all the files inside your project folder to the staging area, use the following command:
 
-git add .
+`git add .`
 
 Use this carefully since it adds all the files and folders in your project to the staging area.
-Committing
+
+## Committing
 
 Use the following command to commit the file:
 
-git commit -m "Initial Commit"
-
-“Initial Commit” is the commit message here. Enter a relevant commit message to indicate what code changes were done in that particular commit.
-Git Status and Git Log
+`git commit -m "Initial Commit"`
 
 Now modify the demo.txt file and add the following snippet:
 
 Initial Content Adding more Content
 
-Status
+## Status
 
-Use git status to find out information regarding what files are modified and what files are there in the staging area — it shows other information as well, which we can ignore for now.
+Use git status to find out information regarding what files are modified and what files are there in the staging area — it shows other information, which we can ignore for now.
 
 Use the following command to see the status:
 
-git status
+`git status`
 
 The status shows that demo.txt is modified and is not yet in the staging area.
 
 Now let us add demo.txt to the staging area and commit it using the following commands:
 
-git add demo.txt git commit -m "demo.txt file is modified"
+`git add demo.txt git commit -m "demo.txt file is modified"`
 
-Log
+## Log
 
 Use git log to print out all the commits which have been done up until now.
 
 The command used for this is:
-git log
+`git log`
 
 The log shows the author of each commit, the date of the commit, and the commit message.
-Branches
 
-Up until now we have not created any branch in Git. By default, Git commits go into the master branch.
-What is a branch?
+## Branches
+
+Until now we have not created any branch in Git. By default, Git go into the master branch.
+
+## What is a branch?
 
 A branch is nothing but a pointer to the latest commit in the Git repository. So currently our master branch is a pointer to the second commit “demo.txt file is modified”.
-Why are multiple branches needed?
+
+## Why are multiple branches needed?
 
 Multiple branches are needed to support multiple parallel developments. Refer the image below to see how branches work.
 
-Initially, commit 1 and commit 2 were done in the master branch. After commit 2 a new Branch called as “Test” is created, and commit 3 and commit 4 are added to the test branch.
+Commit 1 and commit 2 were done in the master branch. After commit 2 a new Branch called as “Test” is created, and commit 3 and commit 4 are added to the test branch.
 
-At the same time, a different commit 3 and commit 4 are added to the master branch. Here we can see that after Commit 2, two parallel developments are being done in 2 separate branches.
+Different commit 3 and commit 4 are added to the master branch. Here we can see that after Commit 2, two parallel developments are being done in 2 separate branches.
 
 The Test Branch and the Master Branch have diverged here and have different code — the code from Test Branch can be merged with the Master branch using git merge. This will be covered later.
-Create a New Branch in Local
+
+## Create a New Branch in Local
 
 Create a new branch called test using the following command:
 
-git branch test
+`git branch test`
 
 This command creates the test branch.
 
 We are still in the context of the master branch. In order to switch to the test branch. use the following command:
 
-git checkout test
+`git checkout test`
 
 Now we are in the test branch.
 
 You can list out all the branches in local using the following command:
 
-git branch
+`git branch`
 
 Do Some Commits in the New Branch
 
@@ -115,15 +118,15 @@ Initial Content Adding more Content Adding some Content from test Branch
 
 Now stage and commit using the following commands:
 
-git add demo.txt git commit -m "Test Branch Commit"
+`git add demo.txt git commit -m "Test Branch Commit"`
 
 This commit was done in the Test Branch, and now Test Branch is ahead of Master Branch by 1 commit — as the test branch also includes the 2 commits from the master branch.
 
 You can verify the commit history in Test Branch using:
 
-git log
+`git log`
 
-Merging
+## Merging
 
 Currently, Test Branch is ahead of the Master by 1 commit. Let’s say that now we want all the code in the Test Branch to be brought back to the Master Branch. This is where git merge is very useful.
 
@@ -131,11 +134,11 @@ In order to merge the code from the test branch into the master branch, follow t
 
 First go back to the master branch:
 
-git checkout master
+`git checkout master`
 
 Then run the merge command:
 
-git merge test
+`git merge test`
 
 After running these 2 commands, the merge should be successful. In this example, there are no conflicts.
 
