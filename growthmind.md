@@ -17,8 +17,3 @@ believes that anyone can develop his or her skills and is not based on talent or
 |  Ability to learn new things  |  Avoid failure         |
 |  Inspired by others success   |  Give up easily        |
  
-
-   
-  
- 
-  
