@@ -1,6 +1,7 @@
-## Hello, my name is Abdulsalam Al-Najjar graduated from University of Jordan scince 2017 I've a good skills in photoshop illustrator so I worked as a graphic designer for almost 3 years and now I am looking to improve myself in web development.
+## *Hello, my name is Abdulsalam Al-Najjar graduated from University of Jordan scince 2017 I've a good skills in photoshop illustrator so I worked as a graphic designer for almost 3 years and now I am looking to improve myself in web development.*
 
 # Growth mindset
+![mindset](https://static.vecteezy.com/system/resources/previews/001/225/333/non_2x/growth-mindset-and-fixed-mindset-concept-vector.jpg)
 
 believes that anyone can develop his or her skills and is not based on talent or anything else not like a fixed mindset that believes that talent is enough to reach your **goals**.
 
