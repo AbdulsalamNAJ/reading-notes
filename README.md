@@ -4,6 +4,7 @@
 
 | №  |   Page Name |
 |------|-------------|
-|*#1* |[Growth_Mindset](https://abdulsalamnaj.github.io/reading-notes/growthmind)  |
-|*#2*|[What_is _Git](https://abdulsalamnaj.github.io/reading-notes/what-is-git)|
-|*#3*|[My_new_skills](https://abdulsalamnaj.github.io/reading-notes/skills)|
+|*#1* |[Growth Mindset](https://abdulsalamnaj.github.io/reading-notes/growthmind)  |
+|*#2*|[What is Git](https://abdulsalamnaj.github.io/reading-notes/what-is-git)|
+|*#3*|[HTML intro](https://abdulsalamnaj.github.io/reading-notes/html-intro)|
+|*#4*|[What I've learned](https://abdulsalamnaj.github.io/reading-notes/skills)|
