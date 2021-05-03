@@ -38,19 +38,19 @@ An HTML file must have some essential tags so that web browser can differentiate
 
 HTML code is made up of elements. Many elements (but not all) are made up of opening and closing tags.
 
-## Heading Tags
+### Heading Tags
 
 Any document starts with a heading. You can use different sizes for your headings. HTML also has six levels of headings, which use the elements `<h1>, <h2>, <h3>, <h4>, <h5>, and <h6>`. While displaying any heading, browser adds one line before and one line after that heading.
 
-## Paragraph Tag
+### Paragraph Tag
 
 The <p> tag offers a way to structure your text into different paragraphs. Each paragraph of text should go in between an opening <p> and a closing </p> tag as shown below in the example: `<p> Any Text here </p>`
 
-## Horizontal Lines
+### Horizontal Lines
 
 Horizontal lines are used to visually break-up sections of a document. The `<hr>` tag creates a line from the current position in the document to the right margin and breaks the line.
 
-## Image Tag
+### Image Tag
 
 ![imageTag](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
 
