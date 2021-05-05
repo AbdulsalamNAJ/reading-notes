@@ -78,7 +78,7 @@ Exponentiation Assignment|	x **= y	|x = x ** y
 ### 2. Arithmetic Operators
 
 Operator|	Type|	Description
---|--|---
+----|----|-----
 Addition (+)|	Binary|	It returns the value after addition.
 Subtraction (-)	|Binary|	It returns the value after subtraction.
 Multiplication (*)|	Binary|	It returns the value after multiplying the operands.
@@ -86,9 +86,9 @@ Division (/)|	Binary|	It returns the value after dividing 2 operands.
 Remainder (%)|	Binary|	It returns the integer remainder after dividing 2 operands.
 Increment (++)|	Unary|	It adds 1 to the operand. For the prefix operator (++var2), it returns the value after adding 1. For the postfix operator (var2++), it adds 1 to the value then returns it.
 Decrement (–)|	Unary|	It subtracts 1 from the operand. For the prefix operator (–var2), it returns the value after subtracting 1. For the postfix operator (var2–), it subtracts 1 from the value then returns it.
-Unary negation (-)	Unary	It returns the negation of the value.
-Unary plus (+)	Unary	It converts the operand to a number.
-Exponentiation operator (**)	Binary	It calculates the base to the exponent power, i.e., baseexponent.
+Unary negation (-) |	Unary	|It returns the negation of the value.
+Unary plus (+)	|Unary|	It converts the operand to a number.
+Exponentiation operator (**)	|Binary|	It calculates the base to the exponent power, i.e., baseexponent.
 
 ### 3. Comparison Operators
 
