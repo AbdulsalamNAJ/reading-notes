@@ -2,6 +2,8 @@
 
 Hello everyone I'm Abdulsalam Al-Najjar 29 years old graduated from university of Jordan since 2017 worked as graphic designer for 3 years and now I'm looking forward to improve my skills in web development.
 
+| №  |   Page Name |
+|------|-------------|
 |*#1* |[Growth Mindset](https://abdulsalamnaj.github.io/reading-notes/growthmind)  |
 |*#2*|[What is Git](https://abdulsalamnaj.github.io/reading-notes/what-is-git)|
 |*#3*|[HTML intro](https://abdulsalamnaj.github.io/reading-notes/html-intro)|
