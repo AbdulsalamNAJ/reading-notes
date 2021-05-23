@@ -1,6 +1,6 @@
 # Code 102 reading notes:
 
-Hello everyone I'm Abdulsalam Al-Najjar 29 years old graduated from university of Jordan since 2017 worked as graphic designer for 3 years and now I'm looking forward to improve my skills in web development.
+## Hello everyone I'm Abdulsalam Al-Najjar 29 years old graduated from university of Jordan since 2017 worked as graphic designer for 3 years and now I'm looking forward to improve my skills in web development.
 
 | №  |   Page Name |
 |------|-------------|
