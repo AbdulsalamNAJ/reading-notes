@@ -172,3 +172,7 @@ The main tool you'll use to view the script's output is a Web browser. Currently
 ### Q3. What section of a web page contains the author of the document, copyright information, links to the terms of the use, contact information, etc.
 ### Q4. Describe the purposes of the `<nav>` element.
 ### Q5. Describe the purposes of the `<section>` element.
+
+### References:
+http://lnr.irb.hr/ebooks/1575211416/ch1.htm
+https://dev.to/rahxuls/abc-of-javascript-50h3
