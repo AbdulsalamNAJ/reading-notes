@@ -165,3 +165,11 @@ Because an event handler is inserted between double quotation marks, be sure to 
 
 ## Viewing Your Script's Output
 The main tool you'll use to view the script's output is a Web browser. Currently, you should use Netscape to view the output, but other browsers may support JavaScript in the future. There's nothing special you need to do to view a script's output-just load the Web page that contains the script. You can even test JavaScript on your local computer, without uploading anything to the Web server.
+
+## Questions:
+
+### Q1. Name an element which doesn't have a closing tag.
+### Q2. What does HTML stand for?
+### Q3. The content of the web (such as your pictures, text, links) will show up here. 
+### Q4. Which of the following is the largest heading? 
+### Q5. The following tag will show a bulleted list
