@@ -19,7 +19,7 @@
 |------|-------------|
 |*#1* |[Class-01](https://abdulsalamnaj.github.io/reading-notes/class-01)|
 |*#2* |[Class-02](https://abdulsalamnaj.github.io/reading-notes/class-02)|
-|*#3*||
+|*#3*|[Class-03](https://abdulsalamnaj.github.io/reading-notes/class-03)|
 |*#4*||
 |*#5*||
 |*#6* ||
