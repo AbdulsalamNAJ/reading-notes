@@ -75,11 +75,6 @@ attribute class is used to identify several elements from other elements on the 
 
 <p class="important admittance">Hours: 10:00 – 18:00 (No admittance after 17:30)</p>
 
-## Block & Inline Elements
-Block Elements means that the element will appear to start a new line like <h1>, <p>, <u1> and <li>.
-
-Inline Elements means that the element will appear to continue on the same line like <em>, <b> and <img>.
-
 ##  Grouping
 <div> allows you to group a set of elements together in one block-level box.
 <span> acts like an inline equivalent of the <div> and is used to contain a section of text, or to contain a number of inline elements.
