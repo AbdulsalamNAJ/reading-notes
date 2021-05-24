@@ -200,3 +200,11 @@ In this example, we will use the backslash (\) to escape the quotation mark.
     </script>  
     </body>  
     </html>  
+
+References:
+
+https://www.digitalocean.com/community/tutorials/how-to-work-with-the-box-model-in-css  
+
+https://edu.gcfglobal.org/en/basic-css/the-css-box-model/1/  
+
+https://endubueze00.medium.com/javascript-basics-string-concatenation-with-variables-and-interpolation-deba239debbe
