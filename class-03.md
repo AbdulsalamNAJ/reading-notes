@@ -201,6 +201,27 @@ In this example, we will use the backslash (\) to escape the quotation mark.
     </body>  
     </html>  
 
+## How switch statements work in JavaScript
+The JavaScript switch keyword is used to create multiple conditional statements, allowing you to execute different code blocks based on different conditions.
+
+The code below shows you a switch statement in action:
+
+    var score = 20;
+
+    switch(age){
+        case 10:
+            console.log("Score value is 10");
+            break;
+        case 20:
+            console.log("Score value is 20");
+            break;
+        default:
+            console.log("Score value is neither 10 or 20");
+    }
+
+A simple switch statement in action
+The code above will print "Score value is 20" to the console. The switch statement works by comparing an expression given to it with the expressions in each case clause.
+
 References:
 
 https://www.digitalocean.com/community/tutorials/how-to-work-with-the-box-model-in-css  
