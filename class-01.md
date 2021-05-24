@@ -169,6 +169,6 @@ The main tool you'll use to view the script's output is a Web browser. Currently
 
 ### Q1. Name an element which doesn't have a closing tag.
 ### Q2. What does HTML stand for?
-### Q3. The content of the web (such as your pictures, text, links) will show up here. 
-### Q4. Which of the following is the largest heading? 
-### Q5. The following tag will show a bulleted list
+### Q3. What section of a web page contains the author of the document, copyright information, links to the terms of the use, contact information, etc.
+### Q4. Describe the purposes of the <nav> element.
+### Q5. Describe the purposes of the <section> element.
