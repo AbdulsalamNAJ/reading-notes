@@ -17,8 +17,8 @@
 
 | №  |   Page Name |
 |------|-------------|
-|*#1* ||
-|*#2* ||
+|*#1* |[Class-01](https://abdulsalamnaj.github.io/reading-notes/class-01)|
+|*#2* |[Class-02](https://abdulsalamnaj.github.io/reading-notes/class-02)|
 |*#3*||
 |*#4*||
 |*#5*||
