@@ -105,25 +105,17 @@ labeled diagram of box model, showing margins, borders, and padding
 What is the box model?
 Every block-level HTML element you put on a webpage is a box, even if it doesn't ordinarily look like it. For example, if you add a <p> element to your webpage and load it, it initially looks like it's just loose text. If you add some CSS colors, though, you can see the square box shape:
 
-![image](https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/basicparagraph.PNG)
-
 A paragraph with colors
 The box model defines the different parts of that shape, which are broken up into four pieces, or sub-boxes:
 
 Content: the inner content of your HTML element. In a <p> element, for example, this is the area where text would be displayed. In the image above, it's the entire area made visible with the background color. 
 Padding: a box that surrounds an HTML element's inner content. In the image below, it's the extra space around the content that also shares the background color: 
 
-![image](https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/paragraph-with-padding.PNG)
-
 A paragraph with padding
 Border: a box that surrounds an HTML element's padding. In the image below, it's the darker space around the padding: 
 
-![image](https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/paragraph-with-border.PNG)
-
 A paragraph with padding and a border
 Margin: a functionally invisible box that surrounds an HTML element's border. The margin is meant to act as white space to separate HTML elements from each other. In the image below, it's the white spaces between and around the two paragraphs: 
-
-![image](https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/two-paragraphs2.PNG)
 
 Two paragraphs with padding and borders
 You may not always style all four of these sub-boxes, so they may not always be visible. Regardless, they are part of the make-up of every block-level HTML element.
@@ -132,12 +124,8 @@ Inline HTML elements are still boxes, but they don't respect all of the box mode
 
 In particular, let's consider the height and width declarations you can use to resize HTML elements. While at first glance they may appear to resize an element as a whole, they are actually only resizing an element's content. The padding, border, and margin boxes can be resized separately from the content. Take this paragraph as an example:
 
-![image](https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/paragraph-no-height.PNG)
-
 paragraph with no height
  It has been styled to add to the padding and border and make them visible. Now let's add a height: 50px; declaration to it:
-
-![image](https://media.gcflearnfree.org/content/5ef2084faaf0ac46dc9c10be_06_23_2020/paragraph-with-height.PNG)
 
 paragraph with height
 Notice that while the content box has increased in size, the padding and border boxes have remained the same.
