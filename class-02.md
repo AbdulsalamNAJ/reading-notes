@@ -125,3 +125,7 @@ A for loop is a sequential statement that allows a designer to specify a fixed n
 A while loop is another form of sequential loop statement that specifies the conditions under which the loop should continue rather than specifying a discrete number of iterations. The condition ...
 
 ![images](https://www.oreilly.com/library/view/introduction-to-digital/9780470900550/images/ch004-f025.jpg)
+
+**References:**
+
+https://www.brainscape.com/flashcards/chapter-2-basic-javascript-instructions-3856200/packs/5586185
