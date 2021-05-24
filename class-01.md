@@ -159,7 +159,6 @@ For the first few years of my career, I didn’t know that wireframes existed. I
 
 While a lot of great thinking goes into these highly-detailed wireframes, the actual artifact creates a lot of issues.
 
-![image](https://i.pinimg.com/originals/c3/de/24/c3de24c8c79004b349f12052f76d70b0.png)
 
 Writing a Simple JavaScript Application
 In this section, you explore the process of JavaScript development with a simple JavaScript application. This application doesn't do much, but it will help you understand the steps required to develop and test a script. You'll find much more sophisticated examples throughout this book.
