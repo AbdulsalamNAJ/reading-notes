@@ -72,10 +72,14 @@ attribute class is used to identify several elements from other elements on the 
     <!-- both have the properties of the class named importance -->
 <p class="important">For a one-year period from November 2010, the Marugame Genichiro-Inokuma Museum of Contemporary Art (MIMOCA) will host a cycle of four Hiroshi Sugimoto exhibitions.</p>
 <p>Each will showcase works by the artist thematically contextualized under the headings "Science," "Architecture," "History" and "Religion" so as to present a comprehensive panorama of the artist's oeuvre.</p>
+
 <p class="important admittance">Hours: 10:00 – 18:00 (No admittance after 17:30)</p>
+
 ## Block & Inline Elements
 Block Elements means that the element will appear to start a new line like <h1>, <p>, <u1> and <li>.
+
 Inline Elements means that the element will appear to continue on the same line like <em>, <b> and <img>.
+
 ##  Grouping
 <div> allows you to group a set of elements together in one block-level box.
 <span> acts like an inline equivalent of the <div> and is used to contain a section of text, or to contain a number of inline elements.
