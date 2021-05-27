@@ -21,7 +21,7 @@
 |*#2* |[Class-02](https://abdulsalamnaj.github.io/reading-notes/class-02)|
 |*#3*|[Class-03](https://abdulsalamnaj.github.io/reading-notes/class-03)|
 |*#4*|[Class-04](https://abdulsalamnaj.github.io/reading-notes/class-04)|
-|*#5*||
+|*#5*|[Class-05](https://abdulsalamnaj.github.io/reading-notes/class-05)|
 |*#6* ||
 |*#7* ||
 |*#8*||
