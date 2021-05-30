@@ -22,7 +22,7 @@
 |*#3*|[Class-03](https://abdulsalamnaj.github.io/reading-notes/class-03)|
 |*#4*|[Class-04](https://abdulsalamnaj.github.io/reading-notes/class-04)|
 |*#5*|[Class-05](https://abdulsalamnaj.github.io/reading-notes/class-05)|
-|*#6* ||
+|*#6*|[Class-06](https://abdulsalamnaj.github.io/reading-notes/class-06)|
 |*#7* ||
 |*#8*||
 |*#9*||
